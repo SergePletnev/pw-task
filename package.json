@@ -1,0 +1,17 @@
+{
+  "name": "pw-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergePletnev/pw-task.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.9.1"
+  }
+}
